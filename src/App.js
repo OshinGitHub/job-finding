@@ -5,7 +5,7 @@ import Logos from './parts/Logos'
 import PopularJobs from './parts/PopularJobs'
 import Services from './parts/Services'
 import Testimonial from './parts/Testimonial'
-import images from './images/imageindex'
+import images, { logos, icons } from './images/imageindex'
 
 function App() {
   return <div className=""></div>
