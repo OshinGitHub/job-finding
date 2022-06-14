@@ -5,11 +5,15 @@ import caleyPeace from './logos/caley-peace.svg'
 import designExclusive from './logos/design-exclusive.svg'
 import designStudio from './logos/design-studio.svg'
 import harrison from './logos/harrison.svg'
+import umasta from './logos/umasta.svg'
+import vimo from './logos/vimo.svg'
+import carost from './logos/carost.svg'
+import netflix from './logos/netflix.svg'
 // Icons
 import arrowGreenbtn from './icons/arrow-button.svg'
 import arrowLeft from './icons/arrow-left.svg'
 import arrowRight from './icons/arrow-right.svg'
-import arrowRightDarkBlue from './icons/arrow-right-btn.svg'
+import arrowRightBtn from './icons/arrow-right-btn.svg'
 import arrowRightWhite from './icons/arrow-right-white-btn.svg'
 import arrowTopRightCorner from './icons/arrow.svg'
 import camera from './icons/camera.svg'
@@ -23,14 +27,12 @@ import location2 from './icons/location2.svg'
 import paperUpload from './icons/paper-upload.svg'
 import pen from './icons/pen.svg'
 import profile from './icons/profile.svg'
-import purple from './icons/purple.svg'
 import quoteLeft from './icons/quote-left.svg'
 import safety from './icons/safety.svg'
 import search from './icons/search.svg'
 import speaker from './icons/speaker.svg'
 import time from './icons/time.svg'
-import vBlue from './icons/v-blue.svg'
-import yellow from './icons/yellow.svg'
+
 import google from './icons/google.svg'
 import twitter from './icons/twitter.svg'
 import instagram from './icons/instagram.svg'
@@ -52,6 +54,10 @@ import waveThree from './others/wave3.svg'
 import waveFour from './others/wave4.svg'
 import waveFive from './others/wave5.svg'
 import yellowDots from './others/yellow-dots.svg'
+import pipe from './others/pipe.svg'
+import twoWaves from './others/twoWaves.svg'
+import lineSoftGreen from './others/bg-softgreen-line.svg'
+import bigWaves from './others/waves.svg'
 
 export const logos = {
   chakri,
@@ -59,14 +65,18 @@ export const logos = {
   caleyPeace,
   designExclusive,
   designStudio,
-  harrison
+  harrison,
+  umasta,
+  vimo,
+  carost,
+  netflix
 }
 
 export const icons = {
   arrowGreenbtn,
   arrowRight,
   arrowLeft,
-  arrowRightDarkBlue,
+  arrowRightBtn,
   arrowRightWhite,
   arrowTopRightCorner,
   camera,
@@ -80,14 +90,11 @@ export const icons = {
   paperUpload,
   pen,
   profile,
-  purple,
   quoteLeft,
   safety,
   search,
   speaker,
   time,
-  vBlue,
-  yellow,
   google,
   twitter,
   instagram,
@@ -110,7 +117,11 @@ const images = {
   waveThree,
   waveFour,
   waveFive,
-  yellowDots
+  yellowDots,
+  pipe,
+  twoWaves,
+  lineSoftGreen,
+  bigWaves
 }
 
 export default images
